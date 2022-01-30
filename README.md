@@ -1,5 +1,5 @@
 # Recipe app
-<img src="https://github.com/SebastianHornoi/react-KeepFit-app/blob/master/public/img/keepFit.png" />
+<img src="https://github.com/SebastianHornoi/react-recipe-app/blob/master/public/img/recipe%20app.png" />
 ### Atenzione: 
 Abbiamo utilizzato il json-server come database, esegueire npm-run-server e poi su un altro terminale npm-run-start
 
