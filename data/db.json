@@ -1,0 +1,66 @@
+{
+  "recipes": [
+    {
+      "titolo": "Torta Classica",
+      "tempoCottura": "65 minuti",
+      "ingredienti": [
+        "pan di spagna",
+        "crema pasticciera",
+        "frutta fresca",
+        "panna",
+        "yogurt"
+      ],
+      "preparazione": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)",
+      "difficolta": "media",
+      "id": 2
+    },
+    {
+      "titolo": "Bigne al cioccolato",
+      "tempoCottura": "70 minuti",
+      "ingredienti": [
+        "pata choux",
+        "crema pasticciera",
+        "cioccolato",
+        "panna"
+      ],
+      "preparazione": "distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)",
+      "difficolta": "media",
+      "id": 3
+    },
+    {
+      "titolo": "Crepes",
+      "difficolta": "media",
+      "tempoCottura": "45 minuti",
+      "preparazione": "scoprilo tu",
+      "ingredienti": [
+        "uova",
+        "zucchero",
+        "farina"
+      ],
+      "id": 4
+    },
+    {
+      "titolo": "Babà",
+      "difficolta": "difficile",
+      "tempoCottura": "60 minuti",
+      "preparazione": "impasta e cuoci",
+      "ingredienti": [
+        "pasta baba",
+        "rum"
+      ],
+      "id": 5
+    },
+    {
+      "titolo": "Torta di compleanno",
+      "difficolta": "facile",
+      "tempoCottura": "20 minuti",
+      "preparazione": "taglia il pan di spagna, riempilo con la crea e ricostruisci la torta. metti la panna e fai riposare in frigorifero per 2 ore.",
+      "ingredienti": [
+        "pan di spagna",
+        "crema",
+        "panna"
+      ],
+      "id": 6
+    }
+  ]
+}
